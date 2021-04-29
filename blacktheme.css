@@ -1,0 +1,151 @@
+div.ant-layout-sider-children {
+  background-color: #0E0E0E;
+}
+
+section.ant-layout.site-layout {
+  background-color: #000000;
+}
+
+div.ant-card-body {
+  background-color: #060606;
+  color: #FFFFFF;
+}
+
+div.ck-blurred.ck.ck-content.ck-editor__editable.ck-rounded-corners.ck-editor__editable_inline.ck-read-only {
+  color: #FFFFFF;
+  background-color: #121212;
+}
+
+th.ant-descriptions-item-label {
+  background-color: #0A0A0A;
+  color: #FFFFFF;
+}
+
+div.ace_content {
+  color: #FBFBFB;
+  background-color: #141414;
+}
+
+div.ace_layer.ace_gutter-layer.ace_folding-enabled {
+  background-color: #0A0A0A;
+  color: #FFFFFF;
+}
+
+ul.ant-card-actions {
+  background-color: #121212;
+  color: #FFFFFF;
+}
+
+div.ace_gutter-cell.ace_gutter-active-line {
+  background-color: #3F3939;
+}
+
+span.ant-tag.monoFont {
+  background-color: #141414;
+  color: #FFF8F8;
+}
+
+textarea.ant-input {
+  background-color: #0C0C0C;
+  color: #FFFFFF;
+}
+
+div.ace_scroller {
+  background-color: #141414;
+  color: #F5F5F5;
+}
+
+div.fullScreen.ace-editor {
+  background-color: #080808;
+  color: #F3F3F3;
+}
+
+span pre mark {
+  background-color: #212121;
+  color: #FFFFFF;
+}
+
+button.ant-btn.ant-btn-icon-only.ant-tooltip-open {
+  background-color: #000000;
+}
+
+div.ant-space.ant-space-horizontal.ant-space-align-center {
+  background-color: #000000;
+  color: #FAF6F6;
+}
+
+div.ant-col.ant-col-22 {
+  background-color: #080808;
+  color: #FFFFFF;
+  
+}
+
+div.ant-col.ant-col-2 {
+  background-color: #000000;
+}
+
+div div img {
+  display: none;
+}
+
+aside.ant-layout-sider.ant-layout-sider-dark.ant-layout-sider-collapsed {
+  background-color: #000000;
+}
+
+div.ant-result-title {
+  color: #FFFFFF;
+}
+
+span.ant-badge-status-text {
+  color: #FFFFFF;
+}
+
+li.ant-menu-item {
+  color: #FFFFFF;
+  background-color: #000000;
+}
+
+#logo {
+  color: #FFFFFF;
+}
+
+div.ant-table-container {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+ul li a {
+  color: #FFFFFF;
+  background-color: #2F2929;
+}
+
+span.ant-pagination-item-ellipsis {
+  color: #FFFFFF;
+}
+
+th.ant-table-cell {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+td.ant-table-cell {
+  color: #FFF9F9;
+  background-color: #000000;
+}
+
+div.ant-statistic-title {
+  color: #FFFFFF;
+}
+
+section.ant-layout.ant-layout-has-sider {
+  background-color: #000000;
+}
+
+span button span {
+  color: #F2F2F2;
+}
+
+td.ant-descriptions-item-content {
+  color: #FEFEFE;
+  
+}
